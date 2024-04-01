@@ -1,4 +1,4 @@
-The Smart Liquid Monitoring System with Coin Sensor Capabilities is an innovative solution that combines Internet of Things (IoT) technology and PHP to manage and monitor liquid levels in various containers. This system is particularly useful in public facilities like vending machines or water dispensers.
+The Smart Liquid Monitoring System with Coin Sensor Capabilities is an innovative solution that combines Internet of Things (IoT) technology and PHP to manage and monitor liquid levels in various containers. This system is particularly useful in public facilities like vending machines or water dispensers. in the system , also afripay is used as a payment gateway to let customers pay via mobile money transactions at most MTN Mobile payment
 
 Key features of the system include:
 
