@@ -15,7 +15,7 @@ In summary, this system offers a comprehensive solution for managing and monitor
 ![Screenshot (60)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/8e732df5-9e7c-4da5-8302-933061af16ad)
 ![Screenshot (59)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/d6db1dc5-63ce-4ded-92e7-5aa444fbadc4)
 ![Screenshot (58)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/6ffe1c5b-d33b-43ee-9bae-e311a74799d3)
-![Screenshot (57)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/c106d909-5cf2-4203-a168-d2fd3ea2aead)
+
 ![Screenshot (93)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/17789865-9e45-4e43-be0a-0cb20c50e135)
 ![Screenshot (92)](h![Screenshot (84)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/3cd29b4e-2a7b-41f0-a33d-421d3971a460)
 ![Screenshot (83)](https://github.com/David-Gloire-Espoir/Smart-Liquid-Monitoring-System-With-Coin-Sensor-Capabilities-IoT-Php-/assets/149917380/717bbbc5-9376-4559-8c13-ea5cf7451575)
